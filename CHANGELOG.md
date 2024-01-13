@@ -1,5 +1,12 @@
 # Changelog
 
+## [18.12.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v18.12.0...v18.12.1) (2024-01-13)
+
+
+### Bug Fixes
+
+* Fix no OTA cluster for TuYa TS011F_plug_1 https://github.com/Koenkk/zigbee2mqtt/issues/20765 ([ec95294](https://github.com/Koenkk/zigbee-herdsman-converters/commit/ec95294f063279679f6ecb3ade68e3d896991311))
+
 ## [18.12.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v18.11.0...v18.12.0) (2024-01-13)
 
 
